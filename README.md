@@ -1,5 +1,5 @@
 # MongoDB Installation Script on DigitalOcean Droplet
-A relatively secured mongoDB setup over DigitalOcean droplet.
+A relatively secured MongoDB setup over DigitalOcean droplet.
 
 ## Installation
 
