@@ -2,7 +2,12 @@
 A relatively secured MongoDB setup over DigitalOcean droplet.
 
 ## Installation
-
+```
+git clone https://github.com/0xboz/mongodb_installation_script.git
+cd mongodb_installation_script
+chmod +x install.sh
+./install.sh
+```
 
 ## Connection URI
 ```
